@@ -1,0 +1,18 @@
+# Sophos UTM - Dokumentation
+
+Dieses Repository enthält Schritt-für-Schritt-Anleitungen zum Remotezugriff über Cloudflare
+
+## Inhalt
+
+1. **[Installation der Sophos UTM](Remotezugriff.pdf)**  
+   Anleitung zum erstellen eines Remotezugriff über Cloudflare
+
+
+ 
+
+---
+
+## Hinweise
+
+- Diese Anleitungen wurden für Schulungs- und Übungszwecke im Homelab erstellt.
+- Getestet mit Proxmox.

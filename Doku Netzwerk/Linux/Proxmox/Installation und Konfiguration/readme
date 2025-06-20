@@ -1,0 +1,18 @@
+# Docker - Dokumentation
+
+Dieses Repository enthält Schritt-für-Schritt-Anleitungen zur Installation und Konfiguration von Proxmox.
+
+## Inhalt
+
+1. **[Installation von Docker](Installation.pdf)**  
+   Anleitung zur Installation eines Proxmox Hypervisors.
+
+2. **[Installation von Docker](Konfiguration.pdf)**  
+   Anleitung zur Konfiguration der Proxmox-Umgebung.
+
+---
+
+## Hinweise
+
+- Diese Anleitungen wurden für Schulungs- und Übungszwecke im Homelab erstellt.
+- Getestet mit Proxmox.
