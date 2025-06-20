@@ -1,13 +1,11 @@
-# Samba-Dokumentation
+# Samba - Dokumentation
 
-Dieses Repository enthält Schritt-für-Schritt-Anleitungen zur Installation und Konfiguration von Samba.
+Dieses Repository enthält Schritt-für-Schritt-Anleitungen zur Installation von Samba.
 
 ## Inhalt
 
 1. **[Installation von Samba](Samba_Install.pdf)**  
    Anleitung zur Installation von Samba auf einem Linuxsystem.
-
-
 
 ---
 
