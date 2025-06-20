@@ -5,13 +5,13 @@ und das Verscheiben von VMs
 
 ## Inhalt
 
-1. **[Installation von Docker](Erstellen_vm.pdf)**  
+1. **[Erstelllen einer virtuellen Machine](Erstellen_vm.pdf)**  
    Anleitung zum erstellen einer virtuellen Machine mit Proxmox.
 
-2. **[Installation von Docker](erstellen_container.pdf)**  
-   Anleitung zum erstellen eines Kontainer mit Proxmox.
+2. **[Erstellen eines Container](erstellen_container.pdf)**  
+   Anleitung zum erstellen eines Container mit Proxmox.
 
-3. **[Installation von Docker](VM_verschieben.pdf)**  
+3. **[eine VM verschieben](VM_verschieben.pdf)**  
    Anleitung zum Verschieben einer VM von einem Node zu einem anderen,
    in einer Stand Alone umgebung
 

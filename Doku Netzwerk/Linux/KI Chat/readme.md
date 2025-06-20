@@ -3,7 +3,7 @@
 Dieses Repository enthält Schritt-für-Schritt-Anleitungen zur Installation und Konfiguration eines Virtuellen KI Chatbot
 ## Inhalt
 
-1. **[Installation von Docker](open-llm-v-tuber.pdf)**  
+1. **[Installation von Open-LLM-V-Tuber](open-llm-v-tuber.pdf)**  
    Anleitung zur Installation des Chatbot in einer Proxmox-Umgebung.
 
 

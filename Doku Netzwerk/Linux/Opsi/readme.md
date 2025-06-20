@@ -4,7 +4,7 @@ Dieses Repository enthält Schritt-für-Schritt-Anleitungen zur Installation von
 
 ## Inhalt
 
-1. **[Installation von Docker](Opsi-Installation.pdf)**  
+1. **[Installation von Opsi](Opsi-Installation.pdf)**  
    Anleitung zur Installation in einem Proxmox-Container
 
 

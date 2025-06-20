@@ -4,8 +4,8 @@ Dieses Repository enthält Schritt-für-Schritt-Anleitungen zur Installation und
 
 ## Inhalt
 
-1. **[Installation von Docker](TrueNAS.v1.pdf)**  
-   Anleitung zur Installation in einer Proxmox-Umgebung.
+1. **[Installation von TrueNAS](TrueNAS.v1.pdf)**  
+   Anleitung zur Installation von TrueNAS in einer Proxmox-Umgebung.
 
 
 
