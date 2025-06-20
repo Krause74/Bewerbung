@@ -1,4 +1,4 @@
-# Docker - Dokumentation
+# Opsi - Dokumentation
 
 Dieses Repository enthält Schritt-für-Schritt-Anleitungen zur Installation von Opsi in einem LHX-Container
 

@@ -1,4 +1,4 @@
-# Docker - Dokumentation
+# TrueNAS - Dokumentation
 
 Dieses Repository enthält Schritt-für-Schritt-Anleitungen zur Installation und Konfiguration von TrueNAS.
 

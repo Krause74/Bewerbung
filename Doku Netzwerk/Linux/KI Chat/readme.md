@@ -1,4 +1,4 @@
-# Docker - Dokumentation
+# KI Chatbot - Dokumentation
 
 Dieses Repository enthält Schritt-für-Schritt-Anleitungen zur Installation und Konfiguration eines Virtuellen KI Chatbot
 ## Inhalt
