@@ -11,7 +11,7 @@ eines Windows 2019 Server ohne Oberfläche
 2. **[Konfiguration](konfiguration_server_core.pdf)**  
    Anleitung zur Konfiguration eines Windwos Servers 2019 ohne Oberfläche.
 
-3. **[Konfiguration](Skript_Konfiguration.md)**  
+3. **[Konfiguration](Skript_Konfiguration.ps1)**  
    Ein Skrip zur automatischen Konfiguration eines Windwos Servers 2019 ohne Oberfläche.
 
 
